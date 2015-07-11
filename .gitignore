@@ -55,3 +55,33 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+*.dump
+data/*
+output/*
+*.pyc
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+
+# IDEA artifacts
+*.iml
+.idea
+
+# Nano/gedit artifacts
+*~
